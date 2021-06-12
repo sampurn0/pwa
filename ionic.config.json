@@ -1,7 +1,0 @@
-{
-  "name": "ionicPwa",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
